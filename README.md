@@ -1,5 +1,15 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+MERN+Developer;Backend+Focused;System+Design+Learner&center=true&width=500&height=45">
+</p>
+
+<h1 align="center">Hi 👋, I'm Rohit Rathod</h1>
+<p align="center">
+🎓 Computer Engineering Student <br>
+🏫 VIT, Pune, India <br>
+
+
 # 💫 About Me:
-Hi 👋, I'm Rohit Rathod  <br><br>🚀 Full Stack Developer (MERN) | Backend-Focused | Problem Solver  <br><br>- 🔭 Currently working on: CodeVerse – A Coding Practice Platform<br>- 🌱 Exploring: System Design, Scalable Backend Architectures  <br>- 💡 Interested in: Building real-world solutions   <br>- 🛠️ Tech Stack: MongoDB, Express.js, React, Node.js, Firebase<br>- ⚡ Strength: Backend development, APIs, database design & integrations  
+🚀 Full Stack Developer (MERN) | Backend-Focused | Problem Solver  <br><br>- 🔭 Currently working on: CodeVerse – A Coding Practice Platform<br>- 🌱 Exploring: System Design, Scalable Backend Architectures  <br>- 💡 Interested in: Building real-world solutions   <br>- 🛠️ Tech Stack: MongoDB, Express.js, React, Node.js, Firebase<br>- ⚡ Strength: Backend development, APIs, database design & integrations  
 
 
 ## 🌐 Socials:
